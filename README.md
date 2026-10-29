@@ -3,7 +3,7 @@
 <img width="2096" height="1184" alt="WhatsApp Image 2026-10-28 at 7 26 25 PM" src="https://github.com/user-attachments/assets/0226a527-a47c-4b8e-bbc6-ba61d8d21c5b" />
 
 ## INTRODUCTION
-This project of hospital data has been done Under the FADA QA internship training COHORT 2 "2026" with key analysis of number of patients, admissions, bill payments, gender and diagnosis within departments capturing period 2024-2025 for secure life general hospital
+This project on analyzing the hospital data has been done Under the FADA QA internship training COHORT 2 "2026" with key analysis of number of patients, admissions, bill payments, gender and diagnosis within departments capturing period 2024-2025 for secure life general hospital.
 
 ## TABLE OF CONTENTS
 1. Project Overview
@@ -51,9 +51,9 @@ The hospital data set for the period 2024-2025 analyses data regarding the numbe
 This interactive dashboard was with Excel analysing the data set of secure life general hospital to understand its operational performance, monitor payments and improve management decision-making. 
 
 ## PROJECT TOOLS.
-For data storage, analysis and processing i used excel sheet pivot and dashboard tools.
+For data storage, analysis and processing i used excel clearly made an interactive dash board. 
 For visualisation i used Excel dashboard.
-For documentation have used repository in github
+For documentation have used repository in github.
 
 ## DATA SET OVERVIEW
 
@@ -63,21 +63,30 @@ key findings addressing the key questions of Secure life general hospital follow
 
 ## KEY PROJECT INSIGHTS.
 1. Our project is considering data set for the period 2024-2025.
+
 2. The number of patients visits recorded for the period 2024-2024 were exactly 1000.
+
 3. The departments that recorded the highest number of admissions and bills were General-252, Emergency- 190, Orthopedic-159, Pediatrics- 153, Cardiology-152 and Nuerology-94 which shows significant moderate levels of admissions for a period 2024-2025 hence need to do more marketing and client surveys.
+
 4. The admissions were 508 in 2024 and 492 in 2025 and here we noticed a decrease in numbers of patients admitted which may be as a result of absence of doctors in various departments to handle diagnosis for those illnesses registered.
-6. The average length of stay for patients across different departments is 4.8.
-7. Proportion of patient bills averagely paid by insurance is 75% and paid bills is 57%, remains pending 26%, or has been partially paid 17% which reflects more patients fully rely on insurance coverage and so if the insurance cannot cover the excessive required bills for other diagnosis the clients resort to other hospital hence low admissions.
-8. Total bill amount is $8,053,143 and paid amount is $4,568,527 which leaves a balance of 3,484,616 from the départements recording the highest number of admissions and non-paid bills are negatively impacting the finances of the hospital.
-9. Insurance coverage varies across departments and diagnosis and the data below highlights the number of patients per deparment with equally symbolises variance in insuarance coverage.
+
+5. The average length of stay for patients across different departments is 4.8.
+
+6. Proportion of patient bills averagely paid by insurance is 75% and paid bills is 57%, remains pending 26%, or has been partially paid 17% which reflects more patients fully rely on insurance coverage and so if the insurance cannot cover the excessive required bills for other diagnosis the clients resort to other hospital hence low admissions.
+
+7. Total bill amount is $8,053,143 and paid amount is $4,568,527 which leaves a balance of 3,484,616 from the départements recording the highest number of admissions and non-paid bills are negatively impacting the finances of the hospital.
+
+8. Insurance coverage varies across departments and diagnosis and the data below highlights the number of patients per deparment with equally symbolises variance in insuarance coverage.
 
 <img width="559" height="225" alt="image" src="https://github.com/user-attachments/assets/3622a6b8-532f-4c3a-a8e4-4e1e17e4588b" />
 
-10. Age groups that account for the highest number of patient visits.
+
+9. Age groups that account for the highest number of patient visits.
 The age group 65&Abv has the highest number of patients and others as shown and this requires more keen attention to find working packages to support them in accessing the services and maintain full payment coverage.
 <img width="633" height="169" alt="image" src="https://github.com/user-attachments/assets/5505c079-44fe-4ea3-82d6-94ab8e9ade5c" />
 
-11. Admissions and billing amounts change over time as shown in the dashboard and excel data set. <img width="920" height="286" alt="hospital data set 3 done" src="https://github.com/user-attachments/assets/a00335eb-bbdd-413f-82b3-a968dd3ce0c7" /> 
+
+10. Admissions and billing amounts change over time as shown in the dashboard and excel data set. <img width="920" height="286" alt="hospital data set 3 done" src="https://github.com/user-attachments/assets/a00335eb-bbdd-413f-82b3-a968dd3ce0c7" /> 
 
 ## LIMITATIONS
 The data set should include more segment to be able analyse and give more insights on financial and operational performance and much more data is needed to analyse the departm0nt and diagnosis contributions to improve.
